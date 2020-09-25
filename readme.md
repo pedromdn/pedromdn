@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Estudiante de ing. en Sistemas computacionales en Instituto tecnologico de tijuana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedromdn" alt="pedromdn" /> </p>
 

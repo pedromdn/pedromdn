@@ -1,4 +1,6 @@
-<h3 align="center">Estudiante de ing. en Sistemas computacionales en Instituto tecnologico de tijuana</h3>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5466345.png" width="62" height="38" alt="Hola" /></a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3636097667">Create Your Own Logo</a>
+<h3 align="left">Estudiante de ing. en Sistemas computacionales en Instituto tecnologico de tijuana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedromdn" alt="pedromdn" /> </p>
 

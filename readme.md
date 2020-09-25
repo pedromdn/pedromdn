@@ -2,9 +2,10 @@
 <br />Image by <a href="https://cooltext.com">Cool Text <a href="https://cooltext.com/Edit-Logo?LogoID=3636097667"></a>
 ## `estudiante de ing. en Sistemas computacionales`
 
+| <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  |   |   |   |   |
+|---|---|---|---|---|
 
-
-| <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  | | | | | 
+|   | | | | | 
 
 |---|---|---|---|---|
 

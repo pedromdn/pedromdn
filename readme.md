@@ -1,6 +1,6 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5466345.png" width="62" height="38" alt="Hola" /></a>
 <br />Image by <a href="https://cooltext.com">Cool Text <a href="https://cooltext.com/Edit-Logo?LogoID=3636097667"></a>
-## `estudiante de ing. en Sistemas computacionales`
+## `Estudiante de ing. en Sistemas computacionales`
 
 
 

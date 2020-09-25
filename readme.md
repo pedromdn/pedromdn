@@ -7,4 +7,4 @@
 
 
 ![Texto alternativo](https://komarev.com/ghpvc/?username=pedromdn)
-<p align="left"> <img src="" alt="pedromdn" /> </p>
+

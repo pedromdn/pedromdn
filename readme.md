@@ -9,7 +9,8 @@
 
 
 ![Texto alternativo](https://komarev.com/ghpvc/?username=pedromdn)
-''' bash
+
+```bash
 
 @ greet.s - a little asm greeter.
 @ programa corto que obtiene la entrada del teclado y luego lo imprime de nuevo en la pantalla.
@@ -57,4 +58,4 @@ svc $0
 mov r7, $1	            @ exit syscall
 svc $0		            @ wake kernel
 .end
-'''
+```
